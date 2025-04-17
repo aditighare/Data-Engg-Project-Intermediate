@@ -1,0 +1,101 @@
+ID,Name,Department,JoinDate,Salary,Email
+84,Jared Cox,HR,2022-05-26,112833.0,jared17@company.com
+54,Ryan Rodgers,,2023-07-13,95205.0,ryan27@gmail.com
+71,Danielle Marshall,HR,2020-07-22,79882.0,danielle77@gmail.com
+46,Grant Farrell,HR,2020-07-18,120140.0,grant55@yahoo.com
+45,Wendy Russell,HR,2023-07-15,89618.0,wendy28@company.com
+40,Sarah Frazier,Sales,2021-07-24,59968.0,sarah61@gmail.com
+23,Jessica Newman,Finance,2023-02-19,106126.0,jessica41@gmail.com
+81,Amber Reilly,Finance,2020-03-18,47619.0,amber29@company.com
+11,,Engineering,2023-07-16,126132.0,invalid-email
+1,Anna Stewart,Finance,2022-04-24,94292.0,anna25@gmail.com
+19,Gregory Love,Marketing,2023-04-27,112944.0,gregory39@yahoo.com
+31,Abigail Singh,Marketing,2022-01-10,47736.0,invalid-email
+74,Jeffrey Davis,Marketing,2021-07-12,,jeffrey92@company.com
+34,Nicole Chaney,HR,2020-08-22,65901.0,invalid-email
+91,Margaret Martinez,,2022-06-27,95811.0,margaret32@gmail.com
+5,,Finance,2022-03-27,107423.0,invalid-email
+77,Michael Garcia,Marketing,2022-03-13,125369.0,michael57@gmail.com
+78,Emily Meza,HR,2021-02-25,144539.0,emily41@company.com
+13,Nicole Hughes,Finance,2022-01-14,63614.0,nicole68@yahoo.com
+32,Jennifer Collins,Engineering,2022-05-18,73561.0,jennifer1@company.com
+56,Isaac Smith,Engineering,2020-09-10,108980.0,isaac67@company.com
+89,Don Robinson,HR,2022-04-23,98036.0,don36@yahoo.com
+27,Aaron Rodriguez,,2022-02-17,105383.0,aaron14@company.com
+43,Joseph Love,Marketing,2023-07-16,80539.0,joseph86@gmail.com
+70,Veronica Garcia,Engineering,2020-07-23,85157.0,veronica1@yahoo.com
+16,Cynthia Vargas,HR,2021-05-15,,cynthia89@yahoo.com
+41,Mr. Glen Jefferson,,2023-04-17,124083.0,mr.61@yahoo.com
+97,Jennifer Reilly,Sales,2020-09-19,131691.0,jennifer38@company.com
+10,Ariana Sims,Marketing,2022-01-28,44974.0,ariana71@gmail.com
+73,Joe Richardson,HR,2022-07-26,64281.0,joe64@company.com
+12,Charles Glass,Engineering,2022-01-20,131219.0,charles47@company.com
+48,Haley Joseph,Sales,2020-04-10,92655.0,haley3@gmail.com
+86,Mary Velasquez,HR,2020-08-22,62133.0,mary36@gmail.com
+29,Adam Wallace,Finance,2022-04-24,106576.0,adam81@yahoo.com
+94,,Engineering,2021-03-15,45713.0,invalid-email
+6,Steven Conner,HR,2021-08-21,76276.0,invalid-email
+67,Julie Weaver,Sales,2023-03-10,82103.0,invalid-email
+66,Ruth Contreras,Marketing,2020-06-17,81455.0,invalid-email
+36,Patricia Campbell,Engineering,2021-07-19,40461.0,patricia13@company.com
+17,Austin Evans,Sales,2023-06-20,87042.0,austin16@yahoo.com
+50,Jason Preston,Engineering,2021-03-20,48699.0,jason4@yahoo.com
+35,Henry Taylor,Marketing,2022-06-19,64923.0,henry39@gmail.com
+8,Rebecca Ortiz,Finance,2022-08-25,47092.0,rebecca74@gmail.com
+96,Laura Aguilar,Marketing,2021-05-21,102131.0,laura51@company.com
+28,James Allison,HR,2020-07-22,105080.0,james78@company.com
+20,Christopher Hunter,HR,2022-02-19,107688.0,christopher10@gmail.com
+82,Ronald Lewis,HR,2020-03-16,131670.0,ronald59@yahoo.com
+26,Sarah Cruz,Marketing,2021-06-21,122272.0,sarah11@gmail.com
+63,Nancy White,Marketing,2020-06-26,107443.0,nancy16@yahoo.com
+14,Tina Thomas,Finance,2020-05-10,,tina65@gmail.com
+25,Melissa Clark,Engineering,2020-05-10,,invalid-email
+4,Megan Parker,HR,2020-02-23,76924.0,megan60@company.com
+18,Sharon Graham,Sales,2021-09-12,105366.0,sharon7@company.com
+39,Sarah Lewis,HR,2021-09-11,101918.0,invalid-email
+9,Lynn Greene,Marketing,2023-07-12,93731.0,lynn30@gmail.com
+79,Jordan Stephens,Finance,2021-08-13,48992.0,jordan76@company.com
+7,Kathy Russell DVM,Engineering,2020-04-28,68804.0,kathy86@gmail.com
+65,Grace Harmon,Marketing,2023-04-25,59317.0,grace93@company.com
+37,Melanie Ortega,Finance,2023-02-24,61722.0,melanie61@company.com
+90,Linda Jones,Engineering,2021-01-12,142750.0,linda20@company.com
+57,James Vaughn,Marketing,2021-01-22,104025.0,invalid-email
+100,Jeffrey Patrick,Engineering,2022-09-13,79122.0,jeffrey31@yahoo.com
+55,James Ibarra,Engineering,2022-06-21,100386.0,james80@gmail.com
+44,,Marketing,2021-02-13,70046.0,invalid-email
+51,Jeffrey Smith,Engineering,2021-04-25,143079.0,jeffrey18@yahoo.com
+68,,Sales,2023-01-21,82594.0,invalid-email
+47,Drew Walker,Sales,2022-06-25,137227.0,drew89@yahoo.com
+69,Kimberly Thompson,Marketing,2022-02-22,,kimberly39@company.com
+62,David Sampson,Finance,2023-08-27,120614.0,david53@yahoo.com
+98,Kristine Taylor,Sales,2023-06-11,,kristine99@company.com
+80,Elizabeth Long,Finance,2022-07-21,121476.0,elizabeth86@gmail.com
+42,Jason Hall,Engineering,2023-03-15,107324.0,jason20@yahoo.com
+59,Michelle Williams,Finance,2022-03-10,65929.0,invalid-email
+49,Sonya Blackwell,Marketing,2020-05-22,118984.0,sonya56@yahoo.com
+99,Jeremiah Alexander,Sales,2022-09-22,,jeremiah20@gmail.com
+58,Kristi Mitchell,Marketing,2022-05-18,53597.0,kristi47@company.com
+76,Charles Alvarado,HR,2022-08-20,85745.0,charles63@company.com
+33,Mark Stanley,Marketing,2021-03-22,77714.0,mark71@company.com
+95,Alyssa Flynn,Engineering,2020-08-20,138914.0,alyssa75@yahoo.com
+60,Melissa Daugherty,Engineering,2021-05-19,143167.0,melissa61@yahoo.com
+64,Nicholas Davis,Sales,2020-09-13,,nicholas84@gmail.com
+85,Lacey Nixon,Marketing,2021-08-17,41478.0,lacey37@yahoo.com
+38,Robert Rowland,Finance,2020-09-22,90165.0,robert35@yahoo.com
+30,Matthew Cooper,Sales,2020-03-18,,matthew59@company.com
+2,David Maxwell,Marketing,2020-06-16,121283.0,david72@company.com
+53,David Simmons MD,Sales,2020-04-23,133637.0,david30@gmail.com
+22,Sherri Clark,,2020-02-17,119760.0,sherri89@gmail.com
+3,Laura Gilbert,Sales,2023-07-26,,laura20@gmail.com
+24,Katie Livingston,Engineering,2020-03-28,47252.0,katie3@yahoo.com
+88,Tamara Monroe,Finance,2022-09-22,77708.0,tamara41@gmail.com
+92,Nicholas Sanchez,Sales,2020-09-25,68481.0,nicholas70@company.com
+75,Richard Kim,Engineering,2023-01-22,83235.0,richard39@gmail.com
+87,Jeremy Thomas,Finance,2022-07-20,55351.0,jeremy45@gmail.com
+83,,Finance,2023-09-20,41749.0,invalid-email
+21,Brianna Jenkins,Marketing,2023-02-28,67015.0,brianna84@yahoo.com
+61,Joseph Perry,Marketing,2021-06-16,44859.0,joseph96@gmail.com
+72,Abigail Palmer,Marketing,2023-08-15,128532.0,abigail52@yahoo.com
+15,Christine Cook,HR,2020-07-28,102565.0,christine65@company.com
+93,Jesus Sullivan,Marketing,2022-09-25,63288.0,jesus61@yahoo.com
+52,Andrew Estrada,Marketing,2022-02-22,118424.0,andrew43@company.com
